@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1640299144 "/home/martin/Documents/Latex/Test/test.tex" "/home/martin/Documents/Latex/Test/test.pdf" "test" 1640299145
+["pdflatex"] 1640299144 "/home/martin/Documents/Latex/Test/test.tex" "/home/martin/Documents/Latex/Test/test.pdf" "test" 1641843299
   "/etc/texmf/web2c/texmf.cnf" 1640298006 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/martin/Documents/Latex/Test/test.aux" 1640299145 32 3985256e7290058c681f74d7a3565a19 ""
   "/home/martin/Documents/Latex/Test/test.tex" 1640297502 1145 5b24eb140cd4723458d4367265aea832 ""
@@ -39,8 +39,8 @@
   "test.aux" 1640299145 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "test.tex" 1640297502 1145 5b24eb140cd4723458d4367265aea832 ""
   (generated)
-  "/home/martin/Documents/Latex/Test/test.log"
-  "/home/martin/Documents/Latex/Test/test.pdf"
   "test.log"
-  "test.aux"
+  "/home/martin/Documents/Latex/Test/test.pdf"
   "test.pdf"
+  "test.aux"
+  "/home/martin/Documents/Latex/Test/test.log"

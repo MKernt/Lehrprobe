@@ -1,0 +1,330 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Ciaburro2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d8cb2be46e0debab2e84f0d8dd10129}{%
+           family={Ciaburro},
+           familyi={C\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Birmingham}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing}%
+      }
+      \strng{namehash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \strng{fullhash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \strng{bibnamehash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \strng{authorbibnamehash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \strng{authornamehash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \strng{authorfullhash}{5d8cb2be46e0debab2e84f0d8dd10129}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-78862-270-7}
+      \field{langid}{english}
+      \field{shorttitle}{Regression {{Analysis}} with {{R}}}
+      \field{title}{Regression {{Analysis}} with {{R}}}
+      \field{year}{2018}
+      \keyw{Computers / Computer Architecture,Computers / Data Science / Data Modeling \& Design,Computers / Data Science / Data Visualization,Computers / Data Science / General,Computers / Database Administration \& Management}
+    \endentry
+    \entry{Hedderich2016}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f0ededa4c2c3dade8b2efd49818285c4}{%
+           family={Hedderich},
+           familyi={H\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbccda98bf338df51822a75000c71f3e}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Lothar},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{de8d73d8f167dd75b610703e373a22a1}
+      \strng{fullhash}{de8d73d8f167dd75b610703e373a22a1}
+      \strng{bibnamehash}{de8d73d8f167dd75b610703e373a22a1}
+      \strng{authorbibnamehash}{de8d73d8f167dd75b610703e373a22a1}
+      \strng{authornamehash}{de8d73d8f167dd75b610703e373a22a1}
+      \strng{authorfullhash}{de8d73d8f167dd75b610703e373a22a1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-662-45690-3 978-3-662-45691-0}
+      \field{langid}{german}
+      \field{title}{{Angewandte Statistik: Methodensammlung mit R}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-3-662-45691-0
+      \endverb
+      \verb{file}
+      \verb /home/martin/Zotero/storage/ZFMWZH8Q/Hedderich and Sachs - 2016 - Angewandte Statistik.pdf
+      \endverb
+    \endentry
+    \entry{Jejeebhoy1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9132501e34736abf98651e6cd54ed5b}{%
+           family={Jejeebhoy},
+           familyi={J\bibinitperiod},
+           given={Shireen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford, New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d9132501e34736abf98651e6cd54ed5b}
+      \strng{fullhash}{d9132501e34736abf98651e6cd54ed5b}
+      \strng{bibnamehash}{d9132501e34736abf98651e6cd54ed5b}
+      \strng{authorbibnamehash}{d9132501e34736abf98651e6cd54ed5b}
+      \strng{authornamehash}{d9132501e34736abf98651e6cd54ed5b}
+      \strng{authorfullhash}{d9132501e34736abf98651e6cd54ed5b}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-19-829033-9}
+      \field{series}{International {{Studies}} in {{Demography}}}
+      \field{shorttitle}{Women's {{Education}}, {{Autonomy}}, and {{Reproductive Behaviour}}}
+      \field{title}{Women's {{Education}}, {{Autonomy}}, and {{Reproductive Behaviour}}: {{Experience}} from {{Developing Countries}}}
+      \field{year}{1995}
+      \verb{file}
+      \verb /home/martin/Zotero/storage/IBVE3NIY/womens-education-autonomy-and-reproductive-behaviour-9780198290339.html
+      \endverb
+    \endentry
+    \entry{Keller2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=47e7ea0cd6c284a9c6b8268ab57ac8d2}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Katarina\bibnamedelimb R.\bibnamedelimi I.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \strng{fullhash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \strng{bibnamehash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \strng{authorbibnamehash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \strng{authornamehash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \strng{authorfullhash}{47e7ea0cd6c284a9c6b8268ab57ac8d2}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN}
+      \field{langid}{english}
+      \field{title}{The {{Economic Effects}} of {{Girls}}' and {{Young Women}}'s {{Education}} in {{Development}}}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.2139/ssrn.3308635
+      \endverb
+      \verb{file}
+      \verb /home/martin/Zotero/storage/NK4HPJ5V/Keller - 2018 - The Economic Effects of Girls’ and Young Women’s E.pdf;/home/martin/Zotero/storage/NMLSZS8A/papers.html
+      \endverb
+      \keyw{economic development,economic growth,education,female,gender,girls,women}
+    \endentry
+    \entry{Pardoe2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3adbd71397c0951dc1fa587d69882939}{%
+           family={Pardoe},
+           familyi={P\bibinitperiod},
+           given={Iain},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{3adbd71397c0951dc1fa587d69882939}
+      \strng{fullhash}{3adbd71397c0951dc1fa587d69882939}
+      \strng{bibnamehash}{3adbd71397c0951dc1fa587d69882939}
+      \strng{authorbibnamehash}{3adbd71397c0951dc1fa587d69882939}
+      \strng{authornamehash}{3adbd71397c0951dc1fa587d69882939}
+      \strng{authorfullhash}{3adbd71397c0951dc1fa587d69882939}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-119-61590-3}
+      \field{langid}{english}
+      \field{title}{Applied {{Regression Modeling}}}
+      \field{year}{2020}
+      \keyw{Business \& Economics / Econometrics,Business \& Economics / Statistics,Mathematics / Probability \& Statistics / Regression Analysis,Mathematics / Probability \& Statistics / Stochastic Processes}
+    \endentry
+    \entry{Sagalova2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f3f0a2d299562f45807f681cf4eb5e54}{%
+           family={Sagalova},
+           familyi={S\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d945370ab345a21f3375aae984acd56}{%
+           family={Nanama},
+           familyi={N\bibinitperiod},
+           given={Siméon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dab7c5e508901e6612ef387e2171408f}{%
+           family={Zagre},
+           familyi={Z\bibinitperiod},
+           given={Noel\bibnamedelima Marie},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1958a4e6bffdf3655347ce9942d0e844}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e235a90638f25b1aa077c8ca37d1b8a1}
+      \strng{fullhash}{cd85a237953c9878fb4c311b93677306}
+      \strng{bibnamehash}{cd85a237953c9878fb4c311b93677306}
+      \strng{authorbibnamehash}{cd85a237953c9878fb4c311b93677306}
+      \strng{authornamehash}{e235a90638f25b1aa077c8ca37d1b8a1}
+      \strng{authorfullhash}{cd85a237953c9878fb4c311b93677306}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2047-2978}
+      \field{journaltitle}{Journal of Global Health}
+      \field{shorttitle}{Long-Term Consequences of Early Marriage and Maternity in {{West}} and {{Central Africa}}}
+      \field{title}{Long-Term Consequences of Early Marriage and Maternity in {{West}} and {{Central Africa}}: {{Wealth}}, Education, and Fertility}
+      \field{volume}{11}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.7189/jogh.11.13004
+      \endverb
+      \verb{file}
+      \verb /home/martin/Zotero/storage/54KCHPJ5/Sagalova et al. - Long-term consequences of early marriage and mater.pdf
+      \endverb
+    \endentry
+    \entry{Samari2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f943123d861374c9ac4204bbb496f4b1}{%
+           family={Samari},
+           familyi={S\bibinitperiod},
+           given={Goleen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f943123d861374c9ac4204bbb496f4b1}
+      \strng{fullhash}{f943123d861374c9ac4204bbb496f4b1}
+      \strng{bibnamehash}{f943123d861374c9ac4204bbb496f4b1}
+      \strng{authorbibnamehash}{f943123d861374c9ac4204bbb496f4b1}
+      \strng{authornamehash}{f943123d861374c9ac4204bbb496f4b1}
+      \strng{authorfullhash}{f943123d861374c9ac4204bbb496f4b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{SSM - Population Health}
+      \field{langid}{english}
+      \field{shorttitle}{Education and Fertility in {{Egypt}}}
+      \field{title}{Education and Fertility in {{Egypt}}: {{Mediation}} by Women's Empowerment}
+      \field{volume}{9}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1016/j.ssmph.2019.100488
+      \endverb
+      \verb{file}
+      \verb /home/martin/Zotero/storage/8EPFTUHM/Education and fertility in Egypt Mediation by wom.pdf;/home/martin/Zotero/storage/WGTGPETG/S2352827318302313.html
+      \endverb
+    \endentry
+    \entry{Wolf2010}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=75655510a674b681ecffa436081d1e87}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Christof},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01281aa97415620c505ef3b1c762db20}{%
+           family={Best},
+           familyi={B\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{9745c5f672bd234fdeb8daa077603a69}
+      \strng{fullhash}{9745c5f672bd234fdeb8daa077603a69}
+      \strng{bibnamehash}{9745c5f672bd234fdeb8daa077603a69}
+      \strng{editorbibnamehash}{9745c5f672bd234fdeb8daa077603a69}
+      \strng{editornamehash}{9745c5f672bd234fdeb8daa077603a69}
+      \strng{editorfullhash}{9745c5f672bd234fdeb8daa077603a69}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-16339-0}
+      \field{langid}{german}
+      \field{title}{{Handbuch der sozialwissenschaftlichen Datenanalyse}}
+      \field{year}{2010}
+      \verb{file}
+      \verb /home/martin/Zotero/storage/FK3DLDJC/Wolf and Best - 2010 - Handbuch der sozialwissenschaftlichen Datenanalyse.pdf
+      \endverb
+      \keyw{Databases Handbooks; manuals; etc,Handbooks; manuals; etc,Social sciences,Statistical methods}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
